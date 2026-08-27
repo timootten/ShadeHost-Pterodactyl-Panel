@@ -1,7 +1,5 @@
 # Contributing
 
-Some changes :)
-
 **Pterodactyl does not accept Pull Requests (PRs) _for new functionality_** that was not previously approved by project
 maintainers on GitHub discussions. It has become overwhelming to try and give the proper time and attention that such
 complicated PRs tend to require. As a result, it is in the project's best interest to limit the scope of work on new
